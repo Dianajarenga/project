@@ -7,7 +7,7 @@
 }
 #all{
     padding:100px;
-    border:50px solid rgba(59, 56, 237, 0.37);
+    border:10px solid rgba(59, 56, 237, 0.37);
     font-family: sans-serif;
     border-radius: 30px;
     margin:100px;
@@ -21,7 +21,7 @@
     color:rgb(255, 255, 255) ;
     letter-spacing: 5px;
     text-shadow:5px 5px 25px rgb(255, 0, 255);
-    padding: 20px;
+    
     border-style: 2px rgb(0, 255, 200);
     border-radius: 20px;
 
@@ -32,6 +32,7 @@
     letter-spacing:4px;
     font-size: medium;
     font-family: sans-serif;
+    padding:10px;
 }
 #ttt{
     color:white;
