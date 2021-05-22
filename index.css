@@ -1,0 +1,41 @@
+#body{
+    background-color:rgb(3, 3, 44);
+    margin:100px;
+    align-content: center;
+}
+#all{
+    padding:100px;
+    border:50px solid rgba(59, 56, 237, 0.37);
+    font-family: sans-serif;
+    border-radius: 30px;
+
+
+}
+#test{
+    text-align: center;
+    font-size: larger;
+    font-family: sans-serif;
+    color:rgb(255, 255, 255) ;
+    letter-spacing: 4px;
+    text-shadow:5px 5px 25px rgb(255, 0, 255);
+    padding: 50px;
+    border-style: 2px rgb(0, 255, 200);
+    border-radius: 20px;
+
+}
+#message{
+    text-align: center;
+    color: honeydew;
+    letter-spacing:4px;
+    font-size: medium;
+    font-family: sans-serif;
+}
+#ttt{
+    color:white;
+    text-align:center;
+    padding: 5px;
+    border:2px rgb(169, 35, 35);
+    font-family: sans-serif;
+    border-radius: 30px;
+
+}
