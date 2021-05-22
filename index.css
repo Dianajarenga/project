@@ -1,6 +1,8 @@
 #body{
     background-color:rgb(3, 3, 44);
     margin:100px;
+    text-align: center;
+
     
 }
 #all{
@@ -17,7 +19,7 @@
     font-size: larger;
     font-family: sans-serif;
     color:rgb(255, 255, 255) ;
-    letter-spacing: 4px;
+    letter-spacing: 10px;
     text-shadow:5px 5px 25px rgb(255, 0, 255);
     padding: 20px;
     border-style: 2px rgb(0, 255, 200);
